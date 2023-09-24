@@ -15,37 +15,37 @@ banner:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Why create more applications"
+  title : "چرا باید برنامه های بیشتری بسازیم؟"
   image : "images/gnome-software.png"
 
   # feature at the left of the image
   leftSide:
     # feature item loop
   - icon : "tf-ion-ios-information-outline"
-    title : "Scratch an Itch"
-    content : "Ever had an idea for an application you personally need? You may find others have a similar desire for your application idea. Scratch that itch."  
+    title : "ایده های خود را گسترش دهید!"
+    content : "آیا تا به حال یک ایده برای ساختن یک برنامه داشته اید؟  آن را نادیده نگیرید!"
 
     # feature item loop
   - icon : "tf-ion-android-apps"
-    title : "Broaden the ecosystem"
-    content : "New applications can inspire new developers on Linux. Building applications in the open allows developers even newer than yourself to learn and get started. Help build the next Linux app generation."
+    title : "اکوسیستم را گسترش دهید"
+    content : "برنامه های جدید می توانند الهام بخش توسعه دهندگان جدید در لینوکس باشند. ساختن برنامه‌های کاربردی در فضای باز به توسعه‌دهندگان جدیدتر از خودتان اجازه می‌دهد یاد بگیرند و شروع کنند. به ساخت نسل بعدی اپلیکیشن لینوکس کمک کنید."
     
     # feature item loop
   - icon : "tf-ion-paintbrush"
-    title : "Be creative"
-    content : "Developing applications is a naturally creative endeavour. The sense of fulfilment gained when completing a project can be very rewarding. Exercise that half of your brain."
+    title : "خلاق باشید!"
+    content : "توسعه برنامه‌ها یک تلاش خلاقانه است. احساس رضایت به دست آمده در هنگام تکمیل یک پروژه می تواند بسیار ارزشمند باشد. نیمی از مغز خود را ورزش دهید."
 
   # feature at the right of the image
   rightSide:
     # feature item loop
   - icon : "tf-ion-ios-chatboxes-outline"
-    title : "Collaborate"
-    content : "Building applications fosters communities. Linux communities often want to help developers succeed. Make something people want, and build a group of fans and contributors around it."
+    title : "مشارکت کنید"
+    content : "ساختن اپلیکیشن ها جوامع را تقویت می کند. جوامع لینوکس اغلب می خواهند به توسعه دهندگان در موفقیت کمک کنند. چیزی را بسازید که مردم می خواهند، و گروهی از طرفداران و مشارکت کنندگان در اطراف آن بسازید."
 
     # feature item loop
   - icon : "tf-ion-bowtie"
-    title : "Learn new skills"
-    content : "Developing applications is a sought-after skill. There are many free training resources to help you learn to develop software. Level up your résumé!"
+    title : "مهارت جدید بیاموزید"
+    content : "توسعه برنامه های کاربردی یک مهارت مورد توجه است. منابع آموزشی رایگان زیادی وجود دارد که به شما در یادگیری توسعه نرم افزار کمک می کند. رزومه خود را ارتقا دهید!"
 
     # feature item loop
   - icon : "tf-ion-ios-cart-outline"
