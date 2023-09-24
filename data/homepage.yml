@@ -1,15 +1,15 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Make Apps for Linux"
-  content : "Desktop and mobile Linux users have a healthy appetite for new software. Linux app stores and repositories 
-            lack applications compared to their proprietary counterparts. 
+  title : "برای لینوکس برنامه بسازید"
+  content : "کاربران لینوکس دسکتاپ و موبایل اشتهای سالمی برای نرم افزارهای جدید دارند. فروشگاه‌ها و مخازن اپلیکیشن لینوکس
+            در مقایسه با همتایان انحصاری خود فاقد برنامه کاربردی هستند.
           
 
-            Technical enthusiasts are encouraged to direct their passion and creativity towards creating fresh apps for Linux users. 
+            علاقه مندان به فن آوری تشویق می شوند که شور و خلاقیت خود را به سمت ایجاد برنامه های جدید برای کاربران لینوکس هدایت کنند.
 
 
-            Too often they fall into the trap of creating more Linux distributions. We don't need more Linux distributions. Stop making Linux distributions, make applications instead."
+            خیلی اوقات آنها در دام ایجاد توزیع های لینوکس بیشتر می افتند. ما نیازی به توزیع های لینوکس بیشتری نداریم. توزیع های لینوکس را متوقف کنید، به جای آن برنامه های کاربردی ایجاد کنید."
   image : "images/vscodium-akira.png"
 
 ############################# Feature ############################

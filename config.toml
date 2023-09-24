@@ -1,6 +1,6 @@
-baseURL = "https://makealinux.app/"
-languageCode = "en-gb"
-title = "Make a Linux App"
+baseURL = "https://sohrabbehdani.ir/makealinuxapp/"
+languageCode = "fa"
+title = "یک برنامه لینوکسی بسازید!"
 theme = "vex-hugo"
 
 [author]
@@ -46,7 +46,7 @@ theme = "vex-hugo"
 logo = ""
 home = ""
 # Meta data
-description = "Make a Linux app. Stop making distributions."
+description = "بجای یک توزیع، یک برنامه لینوکسی بسازید."
 author = "Alan Pope"
 # Google Analitycs
 google_analitycs_id = "Your ID"
